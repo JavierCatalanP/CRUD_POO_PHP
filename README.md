@@ -4,12 +4,9 @@
 # 💫 Aquí es para:
 ## Aprende a crear un CRUD (Server Side) con PHP, PDO, Ajax y Datatables.js y Bootstrap 5 de manera práctica y progresiva.<br>
 
-![Curso en UDEMY](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![PHP](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ Curso en UDEMY de 
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://www.udemy.com/share/105oMs3@ClT2JUSkkQS2XRAcsje6R9rvk-UGZLPZeK7hmGX5dH-rCvWlo0WB5cH9ttMtHNF8/)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
