@@ -11,4 +11,4 @@ require_once "Modelos/empleadosM.php"; // Accediendo a modelo de empleados
 $rutas = new RutasControlador(); // Instanciando la clase
 $rutas -> Plantilla(); // Accediendo a la plantilla
 
-//Prueba desde maquina 2
+//Prueba desde maquina 3
