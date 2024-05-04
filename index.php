@@ -11,4 +11,5 @@ require_once "Modelos/empleadosM.php"; // Accediendo a modelo de empleados
 $rutas = new RutasControlador(); // Instanciando la clase
 $rutas -> Plantilla(); // Accediendo a la plantilla
 
-//Prueba desde maquina 3
+//https://www.udemy.com/course/draft/2287845/learn/lecture/14250056#overview
+//https://www.udemy.com/share/105oMs3@G41xj-jxTwM633M4qm4xzNMoy6DPmx6Xuc4YP5-iVOO2LmM4yMdA13iq5GLtgib4/
