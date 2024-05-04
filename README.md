@@ -1,5 +1,5 @@
 
-![Logo](https://i.ytimg.com/vi/pn2v9lPakHQ/maxresdefault.jpg)
+![Logo(https://www.udemy.com/share/105oMs3@ClT2JUSkkQS2XRAcsje6R9rvk-UGZLPZeK7hmGX5dH-rCvWlo0WB5cH9ttMtHNF8/](https://i.ytimg.com/vi/pn2v9lPakHQ/maxresdefault.jpg)
 
 
 
@@ -47,5 +47,5 @@ Diseñadores web que quieran comenzar a programar del lado del servidor.
 
 
 ## ✍️ Curso en UDEMY de  Alejandro Petrelli || Desarrollador Web Full-Stac
-![Pincha Aquí]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://www.udemy.com/share/105oMs3@ClT2JUSkkQS2XRAcsje6R9rvk-UGZLPZeK7hmGX5dH-rCvWlo0WB5cH9ttMtHNF8/)
+
 
