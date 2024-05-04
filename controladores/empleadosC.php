@@ -40,7 +40,7 @@ public function MostrarEmpleadosC() {
             <td>$ '.$value["salario"].'</td>
 
             <td><a href="index.php?ruta=editar&id='.$value["id"].'"><button>Editar</button></a></td>
-            <td><button>Borrar</button></td>
+            <td><a href="index.php?ruta=empleados&idB='.$value["id"].'"><button>Borrar</button></a></td>
         </tr>';
     }
 }
@@ -91,6 +91,32 @@ public function MostrarEmpleadosC() {
         }
 
     }
+
+    //Eliminar Empleado
+    public function BorrarEmpleadosC(){
+
+        if(isset($_GET["idB"])){
+
+            $datosC = $_GET["idB"];
+            
+            $tablaBD = "empleados";
+
+            $respuesta = EmpleadosM::BorrarEmpleadoM($datosC, $tablaBD);
+
+            if($respuesta == "Bien"){
+
+                header("location:index.php?ruta=empleados");
+
+            }else{
+
+                echo "error";   
+            }
+
+        }
+    }
+
+
+
 
     
 
