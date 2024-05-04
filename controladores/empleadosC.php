@@ -67,9 +67,31 @@ public function MostrarEmpleadosC() {
         
             <input type="submit" value="Actualizar">';
 
+    }
 
+//Actualizar Empleado
+    public function ActualizarEmpleadoC(){
 
+        if(isset($_POST["nombreE"])){
+            
+            $datosC = array("id"=>$_POST["idE"], "nombre"=>$_POST["nombreE"], "apellido"=>$_POST["apellidoE"], "email"=>$_POST["emailE"], "puesto"=>$_POST["puestoE"], "salario"=>$_POST["salarioE"]); 
+
+            $tablaBD = "empleados";
+
+            $respuesta = EmpleadosM::ActualizarEmpleadoM($datosC, $tablaBD);
+
+            if($respuesta == "Bien"){
+
+                header("location:index.php?ruta=empleados");
+
+            }else{
+
+                echo "error";   
+            }
+        }
 
     }
+
+    
 
 }

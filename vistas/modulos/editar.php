@@ -23,6 +23,9 @@ if(!$_SESSION["Ingreso"]){
     $editar = new EmpleadosC();
     $editar -> EditarEmpleado();
 
+    $actualizar = new EmpleadosC;
+    $actualizar -> ActualizarEmpleadoC();
+
     ?>
     
 </form>
